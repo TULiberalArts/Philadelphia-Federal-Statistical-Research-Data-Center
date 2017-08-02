@@ -1,12 +1,10 @@
-- text: Undergraduate
-  url: /undergraduate/
-- text: Graduate
-  url: /graduate/
-- text: Faculty
-  url: /faculty/
+- text: About
+  url: /about/
+- text: Data
+  url: /data/
 - text: Research
   url: /research/
-- text: Resources
-  url : /resources/
-- text: Next Stops
-  url : /next-stops/
+- text: FAQ
+  url: /faq/
+- text: Contact
+  url : /contact/
