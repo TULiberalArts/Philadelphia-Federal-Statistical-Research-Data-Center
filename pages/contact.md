@@ -8,4 +8,6 @@ The Philadelphia FSRDC is in the process of hiring an Administrator and appointi
 
 Kimberly Fahey – kimberly.fahey@temple.edu
 
-Please fill in the following questions and someone will get back to you as soon as possible.
+The PFSRDC is located at the Federal Reserve Bank of Philadelphia.
+
+Physical address is 10 N Independence Mall W, Philadelphia, PA 19106.
