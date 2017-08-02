@@ -85,7 +85,7 @@ For further information click [here](https://www.census.gov/about/adrm/fsrdc/abo
 - [Census of Auxiliary Establishments (AUX)](https://www.census.gov/econ/index.html)
 - [Census of Construction Industries (CCN)](https://www.census.gov/econ/index.html)
 - [Census of Finance, Insurance, and Real Estate (CFI)](https://www.census.gov/econ/index.html)
-- [Census of Island Areas – Puerto Rico (CIAPR)](https://www.census.gov/econ/islandareas/)
+- Census of Island Areas – Puerto Rico (CIAPR)
 - [Census of Manufactures (CMF)](https://www.census.gov/econ/index.html)
 - [Census of Mining (CMI)](https://www.census.gov/econ/index.html)
 - [Census of Retail Trade (CRT)](https://www.census.gov/econ/index.html)
@@ -101,7 +101,7 @@ For further information click [here](https://www.census.gov/about/adrm/fsrdc/abo
 - Integrated Longitudinal Business Database (ILBD)
 - [Longitudinal Business Database (LBD)](https://www.census.gov/ces/dataproducts/datasets/lbd.html)
 - Ownership Change Database (OCD)
-- [Report of Organization Survey](http://bhs.econ.census.gov/bhs/cosasm/cosabout.html) – *Also known as Company Organization Survey (COS)*
+- [Report of Organization Survey](https://www.census.gov/programs-surveys/asm) – *Also known as Company Organization Survey (COS)*
 - Standard Statistical Establishment List/Business Register (SSEL)
 
 ## Establishment Microdata
