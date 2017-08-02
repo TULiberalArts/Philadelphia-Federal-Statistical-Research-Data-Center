@@ -9,7 +9,7 @@ Every FSRDC project using Census data submits a working paper to the Discussion 
 
 # Proposal Development
 
-[Introduction to Research Using the RDC](http://www.census.gov/ces/rdcresearch/index.html)
+[Introduction to Research Using the RDC](http://www.census.gov/ces/rdcresearch)
 Learn what is needed to become an investigator qualified to conduct research at the PFSRDC. Review the necessary policies and procedures to help get your proposal accepted. Learn about properly accessing the PFSRDC facilities and conducting approved research. Once a research proposal is accepted, researchers have access to secure data for their approved projects.
 
 [Research Handbook](https://www.vrdc.cornell.edu/info7470/2011/Readings/Researcher_Handbook_20101101.pdf) [PDF]
