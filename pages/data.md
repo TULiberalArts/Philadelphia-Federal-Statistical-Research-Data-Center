@@ -10,7 +10,7 @@ published: true
 
 Datasets available at the PFSRDC are created from censuses, surveys, and administrative data. Demographic and economic data are provided by the Census Bureau, while the National Center for Health Statistics (NCHS) and the Agency for Healthcare Research and Quality (AHRQ) provide health-related data. View more information on the datasets via the links below.
 
-- [Available Census Datasets](http://www.census.gov/ces/dataproducts/index.html)
+- Available Census Datasets
 - [Available NCHS Datasets](http://www.cdc.gov/rdc/b1datatype/dt100.htm)
 - [Available AHRQ Datasets](http://meps.ahrq.gov/mepsweb/data_stats/onsite_datacenter.jsp)
 
@@ -101,7 +101,7 @@ For further information click [here](https://www.census.gov/about/adrm/fsrdc/abo
 - Integrated Longitudinal Business Database (ILBD)
 - [Longitudinal Business Database (LBD)](https://www.census.gov/ces/dataproducts/datasets/lbd.html)
 - Ownership Change Database (OCD)
-- [Report of Organization Survey](https://www.census.gov/programs-surveys/asm) – *Also known as Company Organization Survey (COS)*
+- Report of Organization Survey – *Also known as Company Organization Survey (COS)*
 - Standard Statistical Establishment List/Business Register (SSEL)
 
 ## Establishment Microdata
