@@ -5,9 +5,6 @@ layout: home
 published: true
 ---
 
-Join the hundreds of students who have discovered the benefits of affordable, flexible, and interdisciplinary undergraduate graduate studies in the Liberal Arts.
+In conjunction with the Office of the Vice President for Research, the College of Liberal Arts has been the leading force behind Temple University’s membership in the newly created Philadelphia Federal Statistical Research Data Center (FSRDC).  Through this FSRDC, Temple faculty and students will be able to conduct statistical analysis of a wide range of non-public microdata collected by the U.S. Census Bureau and other government agencies.
 
-## Course Offerings
-
-- [Liberal Studies- Bachelor of Arts](http://bulletin.temple.edu/undergraduate/liberal-arts/liberal-studies/ba-liberal-studies/)
-- [Liberal Studies- Master of Liberal Arts](http://bulletin.temple.edu/graduate/scd/cla/liberal-arts-mla/)
+PFSRDC is a secure computer lab at the Philadelphia Federal Reserve through which qualified researchers with approved projects can access data residing on the Census Bureau servers.
