@@ -1,4 +1,4 @@
-# Liberal Studies
+# Philadelphia Federal Statistical Research Data Center
 
 [![Build Status][travis-img]][travis]
 
