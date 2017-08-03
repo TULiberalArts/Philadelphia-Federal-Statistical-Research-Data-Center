@@ -57,6 +57,9 @@ college:
 
 # Google Analytics
 google_analytics: UA-69082166-1
+google_tag_manager: GTM-58ZL5B
+google:
+  api_key: AIzaSyCFlwljsN_PneirlwmoE__Xl-7xdYW98A4
 
 # Development Config
 # If you do not have access to 'tutheme', use 'minima' instead.

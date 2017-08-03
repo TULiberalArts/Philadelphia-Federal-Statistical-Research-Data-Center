@@ -1,13 +1,20 @@
 ---
 title: Contact
 permalink: "/contact/"
-layout: page
+layout: contact
 ---
 
-The Philadelphia FSRDC is in the process of hiring an Administrator and appointing a faculty member to the PSFRDC Board of Directors. In the meantime, the Temple University community may address any questions to Kimberly Fahey.
+The Philadelphia Federal Statistical Research Data Center is in the process of hiring an Administrator and appointing a faculty member to the PFSRDC Board of Directors. In the meantime, the Temple University community may address any questions to [Kimberly Fahey](mailto:kimberly.fahey@temple.edu).
 
-Kimberly Fahey – kimberly.fahey@temple.edu
+<br/>
 
-The PFSRDC is located at the Federal Reserve Bank of Philadelphia.
+{% if site.google.api_key %}
+    {% include components/map.html %}
+{% endif %}
 
-Physical address is 10 N Independence Mall W, Philadelphia, PA 19106.
+<br/><br/>
+
+The Philadelphia Federal Statistical Research Data Center is located at the Federal Reserve Bank of Philadelphia
+
+[10 N Independence Mall W  
+Philadelphia, PA 19106.](https://www.google.com/maps/place/10+N+Independence+Mall+W,+Philadelphia,+PA+19106/@39.9535438,-75.1522171,17z/data=!3m1!4b1!4m5!3m4!1s0x89c6c881424707ab:0xe92c44aa6f6ba0af!8m2!3d39.9535438!4d-75.1500284)
