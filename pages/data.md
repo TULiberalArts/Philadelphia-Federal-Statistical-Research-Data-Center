@@ -6,9 +6,7 @@ published: true
 ---
 
 
-# Data
-
-Datasets available at the PFSRDC are created from censuses, surveys, and administrative data. Demographic and economic data are provided by the Census Bureau, while the National Center for Health Statistics (NCHS) and the Agency for Healthcare Research and Quality (AHRQ) provide health-related data. View more information on the datasets via the links below.
+Available datasets at the PFSRDC are created from census, survey, and administrative data. Demographic and economic data are provided by the Census Bureau, while the National Center for Health Statistics (NCHS) and the Agency for Healthcare Research and Quality (AHRQ) provide health-related data. View more information on the datasets via the links below.
 
 - Available Census Datasets
 - [Available NCHS Datasets](http://www.cdc.gov/rdc/b1datatype/dt100.htm)
