@@ -4,7 +4,7 @@ permalink: "/contact/"
 layout: contact
 ---
 
-The Philadelphia Federal Statistical Research Data Center is in the process of hiring an Administrator and appointing a faculty member to the PFSRDC Board of Directors. In the meantime, the Temple University community may address any questions to [Kimberly Fahey](mailto:kimberly.fahey@temple.edu).
+The Philadelphia Federal Statistical Research Data Center is in the process of hiring an Administrator. Professor Catherine Maclean has been appointed as Temple University’s representative on the PFSRDC Board of Directors.  The Temple University community may address any questions to [Kimberly Fahey](mailto:kimberly.fahey@temple.edu).
 
 <br/>
 
