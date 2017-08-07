@@ -1,6 +1,6 @@
 ---
 # Program/Department Title
-title: Philadelphia Federal Statistical Research Data Center
+title: PHILADELPHIA FEDERAL STATISTICAL RESEARCH DATA CENTER
 # Subdirectory (with / at only at beginning)
 baseurl: /philadelphia-federal-statistical-research-data-center
 
@@ -8,9 +8,9 @@ baseurl: /philadelphia-federal-statistical-research-data-center
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
 # Longer descriptions for link previews (<250 characters)
-description: ''
+description: 'The Philadelphia Federal Statistical Research Data Center (PFSRDC) is a secure computer lab located at the Philadelphia Federal Reserve through which qualified researchers with approved projects can access restricted data residing on Census Bureau servers.'
 # List of related keywords for search engines
-keywords: highered, college, university, philadelphia, Temple
+keywords: highered, college, university, philadelphia, Temple, data, microdata, big data, research
 
 # Address
 address:
@@ -18,8 +18,7 @@ address:
   room: 12th Floor
   street: 1114 Polett Walk
   city: Phialdelphia, PA 19122
-  email: psfrdc@temple.edu
-  phone: 2152049999
+  email: pfsrdc@temple.edu
 
 # Social Media
 # Put in only the username unless otherwise noted

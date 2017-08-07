@@ -6,16 +6,10 @@ published: true
 ---
 
 
-Available datasets at the PFSRDC are created from census, survey, and administrative data. Demographic and economic data are provided by the Census Bureau, while the National Center for Health Statistics (NCHS) and the Agency for Healthcare Research and Quality (AHRQ) provide health-related data. View more information on the datasets via the links below.
-
-- Available Census Datasets
-- [Available NCHS Datasets](http://www.cdc.gov/rdc/b1datatype/dt100.htm)
-- [Available AHRQ Datasets](http://meps.ahrq.gov/mepsweb/data_stats/onsite_datacenter.jsp)
-
-For further information click [here](https://www.census.gov/about/adrm/fsrdc/about/available_data.html).
+Available datasets at the [Philadelphia Federal Statistical Research Data Center]({{ '/' | prepend: site.baseurl }}) are created from census, survey, and administrative data. Demographic and economic data are provided by the [Census Bureau](https://www.census.gov/about/adrm/fsrdc/about/available_data.html), while the [National Center for Health Statistics (NCHS)](http://www.cdc.gov/rdc/b1datatype/dt100.htm) and the [Agency for Healthcare Research and Quality (AHRQ)](http://meps.ahrq.gov/mepsweb/data_stats/onsite_datacenter.jsp) provide health-related data.
 
 
-# Demographic Data
+## Demographic Data
 
 - [American Community Survey (ACS)](https://www.census.gov/acs/www/)
 - [American Housing Survey (AHS)](https://www.census.gov/programs-surveys/ahs/)
@@ -28,7 +22,7 @@ For further information click [here](https://www.census.gov/about/adrm/fsrdc/abo
 - [Rental Housing Finance Survey (RHFS)](https://bhs.econ.census.gov/bhs/rhfs/about.html)
 - [Survey of Income and Program Participation (SIPP)](https://www.census.gov/sipp/)
 
-# Health Data
+## Health Data
 
 - [National Center for Health Statistics (NCHS)](http://cdc.gov/nchs)
 - [National Health and Nutrition Examination Survey (NHANES)](http://www.cdc.gov/rdc/B1dataType/dt1222.htm)
@@ -50,7 +44,6 @@ For further information click [here](https://www.census.gov/about/adrm/fsrdc/abo
 - [National Survey of Children’s Health (NSCH)](http://www.cdc.gov/nchs/slaits/nsch.htm)
 - National Survey of Children with Special Health Care Needs (CSHCN)
 
-
 ## NCHS Data Linkage Activities
 
 - [Linked Mortality Data Products](http://www.cdc.gov/nchs/data_access/data_linkage/mortality.htm)
@@ -60,10 +53,9 @@ For further information click [here](https://www.census.gov/about/adrm/fsrdc/abo
 - [National Vital Statistics System (NVSS) Data Release and Access Policy](http://www.cdc.gov/nchs/nvss/dvs_data_release.htm)
 - [National Maternal and Infant Health Survey](http://www.cdc.gov/nchs/nvss/nmihs.htm)
 
-# [Agency for Healthcare Research and Quality (AHRQ)](http://www.ahrq.gov/)
+## Agency for Healthcare Research and Quality (AHRQ)
 
-[Medical Expenditure Panel Survey (MEPS)](https://meps.ahrq.gov/mepsweb/data_stats/onsite_datacenter.jsp)
-
+- [Medical Expenditure Panel Survey (MEPS)](https://meps.ahrq.gov/mepsweb/data_stats/onsite_datacenter.jsp)
 - Household Component-Insurance Component Linked File
 - Nursing Home Component
 - Medical Provider Component
@@ -71,12 +63,10 @@ For further information click [here](https://www.census.gov/about/adrm/fsrdc/abo
 - Two-Year, Two-Panel File
 - MEPS – NHIS Linked Data
 
-# [Bureau of Labor Statistics](http://www.bls.gov/rda/)
+## Bureau of Labor Statistics
 
+- [BLS Restricted Data Access](http://www.bls.gov/rda/)
 - [Survey of Occupational Injuries and Illnesses](http://www.bls.gov/iif/)
-
-
-# Economic Data
 
 ## Economic Census Microdata
 
@@ -90,7 +80,6 @@ For further information click [here](https://www.census.gov/about/adrm/fsrdc/abo
 - [Census of Services (CSR)](https://www.census.gov/econ/index.html)
 - [Census of Transportation, Communications, and Utilities (CUT)](https://www.census.gov/econ/index.html)
 - [Census of Wholesale Trade (CWH)](https://www.census.gov/econ/index.html)
-
 
 ## Business Register Microdata
 
@@ -114,7 +103,7 @@ For further information click [here](https://www.census.gov/about/adrm/fsrdc/abo
 - [Survey of Manufacturing Technology (SMT)](https://www.census.gov/econ/overview/ma0700.html)
 - [Survey of Pollution Abatement Costs and Expenditures (PACE)](https://www.epa.gov/environmental-economics/pollution-abatement-costs-and-expenditures-2005-survey)
 
-# Firm Microdata
+## Firm Microdata
 
 - [Annual Capital Expenditures Survey (ACES)](http://www.census.gov/programs-surveys/aces.html) – Includes Information and Communication Technology (ICT) Supplement starting in 2003
 - [Annual Retail Trade Survey (ARTS)](https://www.census.gov/retail/)
@@ -140,7 +129,7 @@ For further information click [here](https://www.census.gov/about/adrm/fsrdc/abo
 - [Foreign Trade Data – Imports (IMP)](https://www.census.gov/ces/dataproducts/datasets/imp.html)
 - [Longitudinal Firm Trade Transactions Database (LFTTD)](https://www.census.gov/ces/dataproducts/datasets/lfttd.html)
 
-# Linked Employer-Household Data
+## Linked Employer-Household Data
 
 LEHD data are based on different administrative sources, primarily Unemployment Insurance (UI) earnings data and the Quarterly Census of Employment and Wages (QCEW). The LEHD Data are also based on censuses and surveys.
 
