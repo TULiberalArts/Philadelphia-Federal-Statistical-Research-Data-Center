@@ -18,7 +18,7 @@ gem "jekyll", "~> 3.3"
 gem "minima"
 
 # This is the Temple University Jekyll theme. It is not available for public use.
-gem "tutheme", :git => "https://github.com/TULiberalArts/TUTheme.git", :branch => "master"
+gem "tutheme", :git => "https://github.com/TULiberalArts/TUTheme.git", :branch => "page-feature-links"
 
 # For serving the built site
 gem "html-proofer"
@@ -33,4 +33,3 @@ gem "s3_website"
 #   gem "jekyll-github-metadata", "~> 1.0"
 # end
 gem "jekyll-redirect-from"
-
