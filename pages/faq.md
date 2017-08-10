@@ -13,7 +13,7 @@ The Philadelphia Federal Statistical Research Data Center (PFSRDC) is a consorti
 
 Temple University faculty and students will be able to conduct statistical analysis of a wide range of non-public microdata collected by the U.S. Census Bureau and other government agencies.
 
-These datasets are among the largest and most important sources of statistical information in the United States and many of them can only be accessed through a federal statical research data center. The available data represents a vital resource for researchers in economics, business, demography, sociology, medicine, statistics, criminology, and many other disciplines.
+These datasets are among the largest and most important sources of statistical information in the United States and many of them can only be accessed through a federal statistical research data center. The available data represents a vital resource for researchers in economics, business, demography, sociology, medicine, statistics, criminology, and many other disciplines.
 
 ## WHAT ARE THE ADVANTAGES OF USING THE PFSRDC?
 
