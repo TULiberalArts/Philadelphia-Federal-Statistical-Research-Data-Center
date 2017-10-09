@@ -98,8 +98,8 @@ Available datasets at the [Philadelphia Federal Statistical Research Data Center
 - [Manufacturing Energy Consumption Survey (MECS)](http://www.eia.gov/emeu/mecs/)
 - [Medical Expenditure Panel Survey – Insurance Component (MEPS–IC)](http://meps.ahrq.gov/mepsweb/survey_comp/Insurance.jsp)
 - [National Employer Survey (NES)](https://www.census.gov/econ/overview/mu2400.html)
-- [Quarterly Survey of Plant Capacity Utilization (QPC)](https://www.census.gov/manufacturing/capacity/index.html)
-- [Survey of Plant Capacity Utilization (PCU)](https://www.census.gov/manufacturing/capacity/index.html)
+- Quarterly Survey of Plant Capacity Utilization (QPC)
+- Survey of Plant Capacity Utilization (PCU)
 - [Survey of Manufacturing Technology (SMT)](https://www.census.gov/econ/overview/ma0700.html)
 - [Survey of Pollution Abatement Costs and Expenditures (PACE)](https://www.epa.gov/environmental-economics/pollution-abatement-costs-and-expenditures-2005-survey)
 
