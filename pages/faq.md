@@ -34,6 +34,7 @@ The number of restricted-access datasets that are available through federal stat
 - [The University of Pennsylvania](http://www.upenn.edu)
 - [Drexel University](https://drexel.edu)
 - [Pennsylvania State University](http://www.psu.edu)
+- [University of Pittsburgh](https://www.pitt.edu/)
 - [The Federal Reserve Bank of Philadelphia](https://www.philadelphiafed.org/)
 
 ## HOW IS THE PFSRDC GOVERNED?
