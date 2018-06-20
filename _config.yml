@@ -3,6 +3,10 @@
 title: PHILADELPHIA FEDERAL STATISTICAL RESEARCH DATA CENTER
 # Subdirectory (with / at only at beginning)
 baseurl: /philadelphia-federal-statistical-research-data-center
+# Production domain (without / at the end)
+production: https://www.cla.temple.edu
+# url spits sitemap
+url: https://www.cla.temple.edu/philadelphia-federal-statistical-research-data-center
 
 # Program Information
 # Short tagline for tweets (<100 characters)
