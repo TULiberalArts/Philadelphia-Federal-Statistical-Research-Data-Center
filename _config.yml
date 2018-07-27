@@ -8,6 +8,11 @@ production: https://www.cla.temple.edu
 # url spits sitemap
 url: https://www.cla.temple.edu/philadelphia-federal-statistical-research-data-center
 
+# Development Config
+# If you do not have access to 'tutheme', use 'minima' instead.
+theme: tutheme
+palette: light #future feature
+
 # Program Information
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
@@ -23,6 +28,14 @@ address:
   street: 1114 Polett Walk
   city: Phialdelphia, PA 19122
   email: pfsrdc@temple.edu
+
+# University & College Information
+university:
+  name: Temple University
+  url: https://temple.edu/
+college:
+  name: College of Liberal Arts
+  url: https://liberalarts.temple.edu/
 
 # Social Media
 # Put in only the username unless otherwise noted
@@ -49,24 +62,11 @@ social:
   linkedin:
   # Slack - Paste the FULL URL below
   slack:
-
-# University & College Information
-university:
-  name: Temple University
-  url: https://temple.edu/
-college:
-  name: College of Liberal Arts
-  url: https://liberalarts.temple.edu/
-
-# Google Analytics
-google_analytics: UA-69082166-1
-google_tag_manager: GTM-58ZL5B
-google:
-  api_key: AIzaSyCFlwljsN_PneirlwmoE__Xl-7xdYW98A4
-
-# Development Config
-# If you do not have access to 'tutheme', use 'minima' instead.
-theme: tutheme
+  # Google Analytics
+  google_analytics: UA-69082166-1
+  google_tag_manager: GTM-58ZL5B
+  google:
+    api_key: AIzaSyCFlwljsN_PneirlwmoE__Xl-7xdYW98A4
 
 # Global Site Config
 # DO NOT edit below unless if you know what you're doing!
