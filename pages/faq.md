@@ -1,7 +1,7 @@
 ---
 title: Frequently Asked Questions
 permalink: /faq/
-layout: page
+layout: tla_page
 published: true
 ---
 

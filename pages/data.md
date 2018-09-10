@@ -1,7 +1,7 @@
 ---
 title: Data
 permalink: /data/
-layout: page
+layout: tla_page
 published: true
 ---
 

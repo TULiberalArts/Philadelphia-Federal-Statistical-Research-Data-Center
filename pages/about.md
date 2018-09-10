@@ -1,7 +1,7 @@
 ---
 title: About
 permalink: /about/
-layout: page
+layout: tla_page
 published: true
 ---
 
