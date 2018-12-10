@@ -109,7 +109,7 @@ Available datasets at the [Philadelphia Federal Statistical Research Data Center
 - [Annual Retail Trade Survey (ARTS)](https://www.census.gov/retail/)
 - [Annual Wholesale Trade Survey (AWTS)](https://www.census.gov/wholesale/)
 - [Business Expenditures Survey (BES)](https://www.census.gov/econ/bes/index.html) – Also known as Business Expenses Supplement
-- [Business Research & Development and Innovation Survey (BRDIS)](https://www.census.gov/manufacturing/brdis/)
+- [Business Research & Development and Innovation Survey (BRDIS)](https://www.census.gov/en.html)
 - Enterprise Summary Report (ESR)
 - [Exporter Database (EDB)](https://www.census.gov/foreign-trade/about/index.html#exporterdatabase)
 - [Kauffman Firm Survey (KFS)](http://www.kauffman.org/what-we-do/research/kauffman-firm-survey-series) – Must be used in conjunction with Census Bureau restricted-use microdata
@@ -124,7 +124,7 @@ Available datasets at the [Philadelphia Federal Statistical Research Data Center
 
 ## Transactions Microdata
 
-- [Commodity Flow Survey (CFS)](https://www.census.gov/econ/cfs/index.html)
+- [Commodity Flow Survey (CFS)](https://www.census.gov/programs-surveys/cfs.html)
 - [Foreign Trade Data – Exports (EXP)](https://www.census.gov/ces/dataproducts/datasets/exp.html)
 - [Foreign Trade Data – Imports (IMP)](https://www.census.gov/ces/dataproducts/datasets/imp.html)
 - [Longitudinal Firm Trade Transactions Database (LFTTD)](https://www.census.gov/ces/dataproducts/datasets/lfttd.html)
