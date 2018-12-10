@@ -94,7 +94,7 @@ Available datasets at the [Philadelphia Federal Statistical Research Data Center
 ## Establishment Microdata
 
 - [Annual Survey of Manufactures (ASM)](http://www.census.gov/programs-surveys/asm.html)
-- [Current Industrial Reports (CIR)](https://www.census.gov/manufacturing/cir/index.html)
+- [Current Industrial Reports (CIR)](https://www.census.gov/search-results.html?searchType=web&cssp=SERP&q=current%20industrial%20reports)
 - [Manufacturing Energy Consumption Survey (MECS)](http://www.eia.gov/emeu/mecs/)
 - [Medical Expenditure Panel Survey – Insurance Component (MEPS–IC)](http://meps.ahrq.gov/mepsweb/survey_comp/Insurance.jsp)
 - [National Employer Survey (NES)](https://www.census.gov/econ/overview/mu2400.html)
@@ -108,7 +108,7 @@ Available datasets at the [Philadelphia Federal Statistical Research Data Center
 - [Annual Capital Expenditures Survey (ACES)](http://www.census.gov/programs-surveys/aces.html) – Includes Information and Communication Technology (ICT) Supplement starting in 2003
 - [Annual Retail Trade Survey (ARTS)](https://www.census.gov/retail/)
 - [Annual Wholesale Trade Survey (AWTS)](https://www.census.gov/wholesale/)
-- [Business Expenditures Survey (BES)](https://www.census.gov/econ/bes/index.html) – Also known as Business Expenses Supplement
+- [Business Expenditures Survey (BES)](https://www.census.gov/en.html) – Also known as Business Expenses Supplement
 - [Business Research & Development and Innovation Survey (BRDIS)](https://www.census.gov/en.html)
 - Enterprise Summary Report (ESR)
 - [Exporter Database (EDB)](https://www.census.gov/foreign-trade/about/index.html#exporterdatabase)
