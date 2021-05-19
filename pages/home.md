@@ -2,8 +2,7 @@
 title: Home
 permalink: /
 layout: home
-promotion-table: true
-
+promotion-table:true
 feature: true
 feature-title: Access Data Advancing Academic Research
 feature-body: >
